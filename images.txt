@@ -1,1 +1,3 @@
+nginx
+cadvisor
 ghcr.io/google/cadvisor:0.55.1
